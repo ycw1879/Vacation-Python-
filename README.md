@@ -17,4 +17,5 @@ Day06   반복문
 
 Assignment1
 
+Day07   함수
 

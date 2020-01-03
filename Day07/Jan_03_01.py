@@ -99,7 +99,7 @@ radius(length)
 #   ex10) 실수 두개를 입력 받아 합을 반환하는 함수
 def twosum(a, b):
     return a + b
-print(twosum(int(input("정수 입력1 : ")), int(input("정수 입력1 : "))))
+print(twosum(float(input("정수 입력1 : ")), float(input("정수 입력1 : "))))
 
 
 #   ex11) 단을 입력 받아 해당 구구단을 출력하는 함수
@@ -126,7 +126,7 @@ def star(l):
     for i in range(5):
         t.fd(l)
         t.lt(144)
-star(50)
+star(int(t.textinput("","길이 입력 : ")))
 
 #   ex13) 세 정수의 곱을 출력하는 함수
 def mux(x1, x2, x3):
