@@ -1,7 +1,7 @@
 # Vacation-Python-
 
 
-Study python
+Study python for vacation
 
 Day01   파이썬 설치와 실행
 
@@ -24,3 +24,9 @@ Day08   함수_2
 Day09   List, Dictionary
 
 Day10   윈도우 프로그래밍(tkinter)
+
+Day11   윈도우 프로그래밍(tkinter)
+
+Assignment2
+
+Day12   윈도우 프로그래밍(tkinter), pickle모듈
